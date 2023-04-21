@@ -1,4 +1,4 @@
-# Starting point
+# cachy_kinoite
 
 [![build-ublue](https://github.com/hippiemitch/cachy_kinoite/actions/workflows/build.yml/badge.svg)](https://github.com/hippiemitch/cachy_kinoite/actions/workflows/build.yml)
 
